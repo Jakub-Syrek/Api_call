@@ -1,0 +1,25 @@
+﻿{
+  {
+    "success": {"total": 1},  "contents": {
+	"quotes": [{
+        "quote": "Keep a positive mind. Remember, a failed attempt doesn't make you a failure—giving up does.",
+        "length": "98",
+        "author": "Lorii Myers",
+        "tags": [
+          "giving-up",
+          "inspire",
+          "positive-attitude",
+          "self-improvement",
+          "tod"
+        ],
+        "category": "inspire",
+        "date": "2019-11-19",
+        "permalink": "https://theysaidso.com/quote/lorii-myers-keep-a-positive-mind-remember-a-failed-attempt-doesnt-make-you-a-fai",
+        "title": "Inspiring Quote of the day",
+        "background": "https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+        "id": "bUu2mjT_nWdPCQyDq7IsugeF"
+      }
+    ],
+    "copyright": "2017-19 theysaidso.com"
+  }
+}}
